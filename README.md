@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 </br>
 -->
 
-
-
-
-
-
-[<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' height='100' alt='portfolio'>](https://jtanos.github.io/)
-
+[<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='85' height='85' alt='portfolio'>](https://jtanos.github.io/)
 
 ## Hi there 👋, Jorge Luis Tanos
+
+[PORTFOLIO](https://jtanos.github.io/)
+
 #### I'm Full Stack Developer.
 
 Me apasiona aprender nuevas tecnologías, frameworks y metodologías de trabajo.
