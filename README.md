@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+[<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>](https://jtanos.github.io/)
 
-## Hi there 👋, Jorge Luis Tanos [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Portfolio' height='50'>](https://jtanos.github.io/)  
+## Hi there 👋, Jorge Luis Tanos
 #### I'm Full Stack Developer.
 
 Me apasiona aprender nuevas tecnologías, frameworks y metodologías de trabajo.
@@ -48,7 +48,7 @@ Durante los últimos años he trabajado en el diseño y desarrollo de una gran v
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jtanos)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jorge-tanos-40968092/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/165943/jtanos) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jtanos.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://es.stackoverflow.com/users/165943/jtanos) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='40'>](https://jtanos.github.io/)  
 
 ![Profile views](https://gpvc.arturio.dev/jtanos) 
 
