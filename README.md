@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 ## Hi there 👋, Jorge Luis Tanos
 #### I'm Full Stack Developer.
 
+Me apasiona aprender nuevas tecnologías, frameworks y metodologías de trabajo.
+Mis objetivos son tratar de adquirir el mayor conocimiento posible en lo antes mencionado para poder 
+superararme tanto a nivel personal como profesional.
+Me considero muy autodidacta, con gran iniciativa personal y capacidad para adoptar diferentes soluciones 
+a los problemas que puedan surgir.
+Durante los últimos años he trabajado en el diseño y desarrollo de una gran variedad de proyectos y tecnologías. 
+💪 💪 💪
+
 ![Metrics](https://metrics.lecoq.io/jtanos?template=classic&gists=1&introduction=1&activity=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=America%2FBuenos_Aires)
 
 
